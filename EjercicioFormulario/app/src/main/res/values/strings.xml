@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio Formulario</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fechaNac">Fecha nacimiento</string>
+    <string name="tel">Teléfono</string>
+    <string name="mail">Email</string>
+    <string name="descrContacto">Descripción contacto</string>
+    <string name="btnSig">Siguiente</string>
+    <string name="btnEditar">Editar datos</string>
+    <string name="cabecera">Confirmar datos</string>
+    <string name="nombreMuestra">Pepe Perez</string>
+    <string name="TelefMuestra">099999999</string>
+    <string name="EmailMuestra">ejemplo@ejemplo.com</string>
+    <string name="fechaPrueba">01/01/2000</string>
+    <string name="DescripMuestra">Pruebas</string>
+</resources>
